@@ -16,6 +16,6 @@
 
   <applicationMonitor pollingRate="1000ms"/>
 
-  <webApplication name="tobesApp" location="${app.location}" contextRoot="/"/>
+  <webApplication name="[PROJ_NAME_PLACEHOLDER]" location="${app.location}" contextRoot="/"/>
 
 </server>
